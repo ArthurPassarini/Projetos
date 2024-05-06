@@ -1,2 +1,2 @@
-# projetos
+# Projetos
 Projetos acadêmicos e profissionais.
